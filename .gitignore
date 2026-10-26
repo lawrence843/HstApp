@@ -1,0 +1,5 @@
+hst_app.db
+hst_app.db-*
+backups/
+persons.json
+apartments.json
